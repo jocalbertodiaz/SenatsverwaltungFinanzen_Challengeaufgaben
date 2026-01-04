@@ -1,6 +1,7 @@
 ## SenatsverwaltungFinanzen_Challengeaufgaben
 
 **Executive Summary:**
+
 Diese Analyse untersucht die langfristige Entwicklung der Zahlfälle der Eingliederungshilfe (EGH, Produktnummer 80992 – EGH SGB IX Leistungsgewährung) in den Berliner Bezirken. Ziel ist es, strukturelle Trends zu identifizieren und die Entwicklung einzelner Bezirke systematisch mit dem gesamtstädtischen Referenzwert zu vergleichen.
 
 Zentrale Ergebnisse:
