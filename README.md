@@ -16,7 +16,7 @@ Zentrale Ergebnisse:
 - Die Rolling-Analyse (3 Jahre) bestätigt, dass mehrere Bezirke (u. a. Neukölln und Mitte) dauerhaft überdurchschnittlich wachsen, während andere Bezirke konsistent unter dem Referenzwert liegen.
 - Die beobachteten Unterschiede sind strukturell stabil und nicht durch kurzfristige Jahresschwankungen erklärbar.
 
-## Entwicklungsumgebung:
+## Entwicklungsumgebung
 - IDE: Jupyter Notebook in Visual Studio Code (VSC)
 - Programmierungsprache: Python 3.12.4, inkl. gängigen Bibliotheken der Datenanalyse (pandas
 numpy
